@@ -40,6 +40,8 @@ A full-year (2015) sales and operations analysis for a pizza retail business, bu
 |---|---|
 | `Pizza Business Analysis Report.html` | Interactive written analysis report (view in browser) |
 | `Pizza Retail Business Analysis.pbix` | Power BI dashboard — download and open in Power BI Desktop |
+| `data_pizza.xlsx` | Original source data — all 2015 pizza orders and transactions |
+| `data_dictionary.xlsx` | Data dictionary — field definitions and descriptions for the dataset |
 
 ---
 
